@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARM Controller</string>
+    <drawable name="clr_normal">#3CB371</drawable>
+    <drawable name="clr_pressed">#CD5C5C</drawable>
+</resources>
